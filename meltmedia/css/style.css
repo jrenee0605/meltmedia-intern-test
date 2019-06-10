@@ -232,7 +232,7 @@ nav a:visited {
 
 #contact {
 	width: 100%;
-	background: url(../img/map.png);
+	background: linear-gradient(to right, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.20)), url(../img/map.png);
 	background-size: cover;
 	margin: 0px auto;
 	padding-top: 80px;
@@ -519,7 +519,7 @@ footer p {
 		width: 15%;
 	}
 
-	/*CONTACT FORM*/
+	/*Contact Form*/
 
 	form {
 		width: 40%;
